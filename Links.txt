@@ -4,3 +4,5 @@ https://sourceforge.net/projects/jacamo/
 
 https://emse.fr/~boissier/enseignement/maop20-winter/index.html
 https://emse.fr/~boissier/enseignement/maop20-winter/helloworld.html
+
+https://github.com/jacamo-lang/jacamo/tree/master/doc/tutorials
